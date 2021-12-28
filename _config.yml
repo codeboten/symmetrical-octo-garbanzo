@@ -13,7 +13,7 @@ email:
 twitter_username: codeboten
 
 # absolute or relative
-profile_picture:
+profile_picture: /assets/images/telescope.png
 
 # Google Analytics ID
 google_analytics:
