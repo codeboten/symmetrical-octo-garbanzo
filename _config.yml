@@ -1,21 +1,19 @@
-title: Abhishek Nagekar
+title: Cloud Native Observability
 description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+site_title: "Cloud Native Observability"
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: codeboten
+blog_url: https://words.boten.ca
+email:
+twitter_username: codeboten
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture:
 
 # Google Analytics ID
-google_analytics: 
+google_analytics:
