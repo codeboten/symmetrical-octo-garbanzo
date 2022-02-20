@@ -1,6 +1,6 @@
-title: Cloud Native Observability
+title: Cloud Native Observability with OpenTelemetry
 description: Learn to gain visibility into distributed systems by combining tracing, metrics and logging with OpenTelemetry.
-site_title: "Cloud Native Observability"
+site_title: "Cloud Native Observability with OpenTelemetry"
 
 # Build settings
 markdown: kramdown

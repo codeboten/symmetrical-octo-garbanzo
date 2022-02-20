@@ -1,1 +1,1 @@
-# Cloud Native Observability
+# Cloud Native Observability with OpenTelemetry
