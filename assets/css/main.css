@@ -29,24 +29,6 @@ img {
   background: transparent;
 }
 
-.cover {
-  background: linear-gradient(
-      to right,
-      rgb(39, 38, 38) 3px,
-      rgba(255, 255, 255, 0.5) 5px,
-      rgba(255, 255, 255, 0.25) 7px,
-      rgba(255, 255, 255, 0.25) 10px,
-      transparent 12px,
-      transparent 22px
-    ),
-    url(/assets/images/cover.jpeg);
-  box-shadow: 0 0 5px -1px black, inset -1px 1px 2px rgba(255, 255, 255, 0.5);
-  margin: auto;
-  border-radius: 5px;
-  width: 450px;
-  height: 556px;
-}
-
 .head-title {
   display: inline-block;
   -webkit-transition: color ease-in-out 0.3s;
@@ -396,10 +378,13 @@ img {
 }
 
 .profile-pic {
-  border-radius: 50%;
-  width: 170px;
-  height: 170px;
-  border: solid 2px white;
+  /* border-radius: 50%; */
+  width: 100%;
+  max-width: 450px;
+  /* height: 170px; */
+  /* border: solid 2px white; */
+  border-radius: 5px;
+  box-shadow: 0 0 5px -1px black, inset -1px 1px 2px rgba(255, 255, 255, 0.5);
 }
 
 .profile-pic:hover {
